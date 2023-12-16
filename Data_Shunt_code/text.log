@@ -1,0 +1,16 @@
+nohup: ignoring input
+/home/an/anaconda3/envs/torch_new/lib/python3.7/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: /home/an/anaconda3/envs/torch_new/lib/python3.7/site-packages/torchvision/image.so: undefined symbol: _ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIlEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE
+  warn(f"Failed to load image Python extension: {e}")
+Set random seed as 1
+Files already downloaded and verified
+[500, 478, 456, 436, 417, 398, 381, 364, 347, 332, 317, 303, 290, 277, 264, 253, 241, 231, 220, 211, 201, 192, 184, 176, 168, 160, 153, 146, 140, 134, 128, 122, 117, 111, 106, 102, 97, 93, 89, 85, 81, 77, 74, 71, 67, 64, 62, 59, 56, 54, 51, 49, 47, 45, 43, 41, 39, 37, 36, 34, 33, 31, 30, 28, 27, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 16, 15, 14, 14, 13, 13, 12, 11, 11, 10, 10, 10, 9, 9, 8, 8, 8, 7, 7, 7, 6, 6, 6, 6]
+Files already downloaded and verified
+Files already downloaded and verified
+11222 8000 2000
+8000 5349
+Classification ACC:
+	 all 	 = 0.630625
+	 region  = 0.75175
+	 head 	 = 0.7194852941176471
+	 med 	 = 0.6017530487804879
+	 tail 	 = 0.5681475903614458

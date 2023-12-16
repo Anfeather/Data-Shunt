@@ -1,0 +1,1 @@
+python main_DS.py -c ./configs/cifar100_lt.json
